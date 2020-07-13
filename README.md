@@ -4,3 +4,4 @@ this project consists of four major parts:
 2. BulkyBook.DataAccess -- all the data operations 
 3. BulkyBook.Model -- model files are stored here
 4. BulkyBook.Utility -- all the constants stored here
+![Image of repo](https://github.com/yuhuaguo899/MVCBookStoreDemo/blob/master/repo_structure.PNG)
